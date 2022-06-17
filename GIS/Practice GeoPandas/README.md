@@ -15,7 +15,7 @@ spatial operations on the given datasets.
 ### Sources
 <a name="sources"></a>
 * Road vector shape file (needs to be provided)
-* Tunnel shape file provided by task author (needs to be provided)
+* Tunnel shape file provided (needs to be provided)
 * Partial buildings shape file of Rotterdam (NL) obtained via <https://extract.bbbike.org/>
 
 ### Results
