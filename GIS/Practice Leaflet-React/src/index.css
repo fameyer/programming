@@ -1,0 +1,27 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+.main {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+.css-cuefkz-MuiContainer-root.sidebar {
+  padding-left: 2px;
+  padding-right: 0px;
+  width: 500px;
+  overflow: hidden;
+}
+
+.css-1xy1myn-MuiDataGrid-root.featureInfo {
+  height: 500px; 
+  width: 100%;
+}
+.featureInfo .MuiDataGrid-footerContainer {
+  display: none;
+}
