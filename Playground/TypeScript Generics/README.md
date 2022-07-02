@@ -7,6 +7,6 @@ The given code shows a simple example for TypeScript generics with two different
 
 Simply use ts-node for local testing
 
-´´´
+```
 ts-node main.ts
-´´´
+```
