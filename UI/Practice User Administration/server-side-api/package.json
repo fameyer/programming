@@ -1,0 +1,14 @@
+{
+  "name": "server-side-api",
+  "version": "0.1.0",
+  "description": "API for programming challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Falk Meyer",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
